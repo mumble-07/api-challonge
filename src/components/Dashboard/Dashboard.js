@@ -36,7 +36,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard">
-      <h1>TOURNAMET DETAILS</h1>
+      <h1>TOURNAMENT DETAILS</h1>
       <div className="buttons">
         <button onClick={showDetails}>GET</button>
         <div className="tournament__details">
