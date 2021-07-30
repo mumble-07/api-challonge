@@ -16,7 +16,6 @@ const TournamentDetails = (props) => {
   })
     .then((res) => console.log(res.data.data))
     .catch((error) => console.log(error));
-
   return (
     <div>
       <div>
