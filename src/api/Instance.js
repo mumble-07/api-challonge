@@ -7,7 +7,7 @@ const Instance = axios.create({
     "Content-Type": "application/vnd.api+json",
     "Accept": "application/json",
     "Authorization-Type": "v1",
-    "Authorization": "jOTnC6gR0LRSXPAF5ukbzMIWP51OPVQqVqIjXBYt",
+    "Authorization": "AUTHORIZATION KEY",
   },
 });
 
