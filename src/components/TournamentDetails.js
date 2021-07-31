@@ -11,7 +11,7 @@ const TournamentDetails = (props) => {
       "Content-Type": "application/vnd.api+json",
       Accept: "application/json",
       "Authorization-Type": "v1",
-      Authorization: "jOTnC6gR0LRSXPAF5ukbzMIWP51OPVQqVqIjXBYt",
+      Authorization: "auth key",
     },
   })
     .then((res) => console.log(res.data.data))
